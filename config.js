@@ -1,4 +1,4 @@
-const nameGirl = 'Mẹ Lượt';
+const nameGirl = 'MẹLượt';
 const giftUrl = '';
 const eventName = '20/10';
 const titleCard = 'Gửi Tặng Mẹ Lượt';
